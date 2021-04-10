@@ -29,7 +29,8 @@ It should not replace any other packages<br>
 OR
 <br>
 npm i discord.js-patched-for-selfbots
-
+<br>
+<br>
 
 Again, any issues feel free to ask for help, I'm not an expert but I can try to help.
 
