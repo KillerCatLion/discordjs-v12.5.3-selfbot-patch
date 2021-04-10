@@ -1,12 +1,12 @@
 # discordjs-v12.5.3-selfbot-patch
 
-Modified version of Discord.js v12.5.3 to allow usage of user accounts
+<h3>Modified version of Discord.js v12.5.3 to allow usage of user accounts</h3>
 I modified some of the source files so it will allow you to log in with a user token. 
 
 
 WARNING:
 
-Selfbotting is against Discord Terms of Service. I am not responsible if your account gets terminated 
+<b>Selfbotting is against Discord Terms of Service. I am not responsible if your account gets terminated</b>
 (obviously)
 
 I don't know what kind of errors my edits will cause, especially with sharding. 
