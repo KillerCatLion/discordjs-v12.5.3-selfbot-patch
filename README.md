@@ -3,7 +3,7 @@
 <h3>Modified version of Discord.js v12.5.3 to allow usage of user accounts</h3>
 I modified some of the source files so it will allow you to log in with a user token. 
 <br>
-<h4>I am now publishing this to an NPM package: </h4><i>KillerCatLion/DiscordJS-Patched-For-Selfbots</i>
+<h4>I am now publishing this to an NPM package: </h4><i>discord.js-patched-for-selfbots</i>
 <br>
 <br>
 WARNING:
@@ -24,7 +24,11 @@ Install discord.js@12.5.3<br>
 Download this repo as zip<br>
 Extract folder "node_modules" to the folder that also has "node_modules"<br>
 It should replace discord.js' origional files<br>
-It should not replace any other packages
+It should not replace any other packages<br>
+<br>
+OR
+<br>
+npm i discord.js-patched-for-selfbots
 
 
 Again, any issues feel free to ask for help, I'm not an expert but I can try to help.
