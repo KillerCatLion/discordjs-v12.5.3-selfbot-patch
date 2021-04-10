@@ -2,8 +2,10 @@
 
 <h3>Modified version of Discord.js v12.5.3 to allow usage of user accounts</h3>
 I modified some of the source files so it will allow you to log in with a user token. 
-
-
+<br>
+<h4>I am now publishing this to an NPM package: </h4><i>KillerCatLion/DiscordJS-Patched-For-Selfbots</i>
+<br>
+<br>
 WARNING:
 
 <b>Selfbotting is against Discord Terms of Service. I am not responsible if your account gets terminated</b>
