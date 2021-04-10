@@ -18,10 +18,10 @@ Requires node v12+ just like the official version.
 
 
 HOW TO INSTALL:
-Install discord.js@12.5.3
-Download this repo as zip
-Extract folder "node_modules" to the folder that also has "node_modules"
-It should replace discord.js' origional files
+Install discord.js@12.5.3,
+Download this repo as zip,
+Extract folder "node_modules" to the folder that also has "node_modules",
+It should replace discord.js' origional files,
 It should not replace any other packages
 
 
