@@ -16,8 +16,8 @@ If you encounter errors, please feel free submit it as an issue and I'll try to 
 I might update this every time discord.js updates, not sure.
 Requires node v12+ just like the official version.
 
-
-<h4>HOW TO INSTALL:</h4><br>
+<br>
+<h4>HOW TO INSTALL:</h4>
 Install discord.js@12.5.3<br>
 Download this repo as zip<br>
 Extract folder "node_modules" to the folder that also has "node_modules"<br>
